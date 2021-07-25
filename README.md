@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImAiNet
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning React, React Native and TypeScript
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me, you can try
 
