@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [FlexBot](https://flexbot.pl)<br>🌱 I’m currently learning **ASP.NET, Next.js**<br>💬 Ask me about **NodeJS, Typescript, React**<br>
+🔭 I’m currently working on **various projects**<br>🌱 I’m currently learning **ASP.NET, Next.js**<br>💬 Ask me about **NodeJS, Typescript, React**<br>
 
 
 # 💻 Tech Stack:
