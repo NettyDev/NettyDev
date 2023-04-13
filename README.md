@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **various projects**<br>🌱 I’m currently learning **ASP.NET, Next.js, Nx, Vite, moonrepo**<br>💬 Ask me about **NodeJS, Typescript, React**<br>
+🔭 I’m currently working on **various projects**<br>🌱 I’m currently learning **ASP.NET, Next.js, Nx, Vite, moonrepo, EdgeDB, Volta**<br>💬 Ask me about **NodeJS, Typescript, React**<br>
 
 
 # 💻 Tech Stack:
