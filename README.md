@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NettyDev&theme=dark&hide_border=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nettydev/nettydev/snk/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nettydev/nettydev/snk/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nettydev/nettydev/snk/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NettyDev/NettyDev/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NettyDev/NettyDev/snk/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NettyDev/NettyDev/snk/github-contribution-grid-snake.svg">
 </picture>
