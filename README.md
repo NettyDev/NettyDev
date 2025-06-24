@@ -6,7 +6,7 @@
 
 # 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NettyDev&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-chi-five.vercel.app?user=NettyDev&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NettyDev/NettyDev/snk/github-contribution-grid-snake-dark.svg">
