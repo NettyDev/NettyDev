@@ -6,7 +6,10 @@
 
 # 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-chi-five.vercel.app?user=NettyDev&theme=catppuccin-mocha)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats-chi-five.vercel.app?user=NettyDev&theme=catppuccin-mocha&hide_border=true)
+![](https://github-readme-stats-nettydevs-projects.vercel.app/api?username=NettyDev&theme=catppuccin_mocha&show_icons=true&hide_border=true)
+![](https://github-readme-stats-nettydevs-projects.vercel.app/api/top-langs/?username=NettyDev&theme=catppuccin_mocha&layout=compact&langs_count=8&hide_border=true)
+![](https://github-readme-stats-nettydevs-projects.vercel.app/api/wakatime?username=NettyDev&theme=catppuccin_mocha&layout=compact&langs_count=8&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NettyDev/NettyDev/snk/github-contribution-grid-snake-dark.svg">
