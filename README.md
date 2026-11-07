@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-**I'm Grzegorz** - I am a fullstack developer and a second year student. I'm interested in development, containerization, networking, and servers. In my free time I experiment with code.
+**I'm Grzegorz** - I am a full-stack developer, IT technician, and software engineering student. I'm interested in development, containerization, networking, and servers. In my free time I experiment with code.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,prisma,postgres,react,tailwind,bun,docker,git)](https://skillicons.dev)
 
